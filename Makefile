@@ -31,7 +31,6 @@ test/%.test:
 
 test: test.build $(TESTS)
 	@echo "Test passed"
-	
 
-doc:
+doc: 
 	doxygen Doxyfile

@@ -13,6 +13,7 @@ using namespace ev3comm;
 int main(int argc, char* argv[]) {
 	Connection *conn = new USBConn();
 
+
 	unsigned char buf[10];
 	conn->send(buf, 10);
 	return 0;
