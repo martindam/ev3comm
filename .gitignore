@@ -1,0 +1,7 @@
+.cproject
+.settings/
+.project
+*~
+src/*.o
+test/*.out
+doc/
