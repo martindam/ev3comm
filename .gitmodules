@@ -1,0 +1,3 @@
+[submodule "submodule/gmock"]
+	path = submodule/gmock
+	url = git@github.com:martindam/googlemock.git
