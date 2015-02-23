@@ -12,6 +12,11 @@ namespace ev3comm {
 		* USB connection
 		*/
 		USB = 0x00,
+
+		/**
+		 * Simulation
+		 */
+		SIM = 0x01
 	};
 
 	/**

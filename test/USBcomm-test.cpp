@@ -11,6 +11,7 @@
 
 using namespace ev3comm;
 
+
 TEST(Hello, World) {
 	Connection *conn = new USBConn();
 
